@@ -1,0 +1,7 @@
+.overlay {
+  @apply modal modal-open;
+}
+
+.custom-modal {
+  @apply modal-box;
+}

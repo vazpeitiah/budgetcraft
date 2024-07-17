@@ -1,0 +1,7 @@
+.alert {
+  @apply flex flex-col items-center gap-6;
+}
+
+.alert-controls {
+  @apply flex items-center justify-end gap-2;
+}

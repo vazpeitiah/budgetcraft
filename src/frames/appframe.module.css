@@ -1,0 +1,19 @@
+.app-container {  
+  @apply w-full flex items-center justify-center;
+}
+
+.app {
+  @apply w-[768px];
+}
+
+.app__nav {
+  @apply w-full flex justify-between items-center py-8;
+}
+
+.app__nav__header {
+  @apply text-xl navbar-start flex gap-2 font-light items-center;
+}
+
+.app__content {
+  @apply flex flex-col w-full;
+}

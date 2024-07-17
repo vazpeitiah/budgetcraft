@@ -1,0 +1,8 @@
+.ynav {
+  @apply min-h-screen w-80 drawer-side ;
+}
+
+.ynav__header {
+  @apply flex items-center gap-2;
+  @apply text-primary text-lg font-bold;
+}

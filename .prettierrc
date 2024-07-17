@@ -1,0 +1,16 @@
+{
+  "importOrder": [
+    "^api|^assets|^components|^frames|^locale|^models|^providers|^queries|^router|^utils|^views/(.*)$",
+    "^[./]"
+  ],
+  "importOrderSeparation": true,
+  "importOrderSortSpecifiers": true,
+  "jsonRecursiveSort": false,
+  "plugins": [
+    "@trivago/prettier-plugin-sort-imports",
+    "prettier-plugin-sort-json"
+  ],
+  "semi": false,
+  "singleQuote": true,
+  "trailingComma": "none"
+}

@@ -1,0 +1,76 @@
+{
+  "accounts": {
+    "title": "Cuentas",
+    "confirmDelete": "¿Estás seguro que deseas borrar esta cuenta?",
+    "name": "Nombre",
+    "type": "Tipo",
+    "includeInTotal": "Incluir en total"
+  },
+  "app": {
+    "title": "Budgetcraft",
+    "platform": "web"
+  },
+  "balance": {
+    "assets": "Activos",
+    "liabilities": "Pasivos",
+    "total": "Total"
+  },
+  "buttons": {
+    "add": "Agregar",
+    "update": "Actualizar",
+    "cancel": "Cancelar",
+    "delete": "Borrar",
+    "edit": "Editar",
+    "save": "Guardar",
+    "close": "Cerrar",
+    "confirm": "Confirmar",
+    "reset": "Limpiar",
+    "upload": "Subir"
+  },
+  "categories": {
+    "title": "Categorías",
+    "name": "Nombre"
+  },
+  "errors": {
+    "accounts": {
+      "create": "No se pudo crear la cuenta",
+      "delete": "No se pudo borrar la cuenta",
+      "edit": "No se pudo editar la cuenta",
+      "fetch": "No se pudieron obtener las cuentas"
+    }
+  },
+  "expenses": {
+    "title": "Gastos",
+    "description": "Descripción",
+    "amount": "Monto",
+    "date": "Fecha",
+    "account": "Cuenta",
+    "category": "Categoría"
+  },
+  "form": {
+    "errors": {
+      "required": "Este campo es requerido"
+    }
+  },
+  "transactionTypes": {
+    "income": "Ingresos",
+    "expenses": "Gastos",
+    "transfers": "Transferencias"
+  },
+  "transactions": {
+    "title": "Transacciones",
+    "description": "Descripción",
+    "account": "Cuenta",
+    "category": "Categoría",
+    "targetAccount": "Cuenta destino",
+    "amount": "Monto",
+    "date": "Fecha",
+    "type": "Tipo de transacción",
+    "confirmDelete": "¿Estás seguro que deseas borrar esta transacción?"
+  },
+  "uploadModal": {
+    "title": "Subir archivo",
+    "description": "Puedes cargar un archivo CSV con tus transacciones",
+    "success": "El archivo se cargó exitosamente"
+  }
+}
